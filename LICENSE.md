@@ -1,4 +1,4 @@
-
+DaVinci Resolve for macOS top Overlay: shortcut-customization & cloud-sync offers the most advanced DaVinci Resolve for macOS overlay, with shortcut-customization and cloud-sync.
 
 
 
